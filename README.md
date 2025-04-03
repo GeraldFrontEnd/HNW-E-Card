@@ -24,8 +24,8 @@ Hardhat - Deployment Full - Continous integration
 </p>
 
 <p> Work Flow Process Files
-- Plaid API - Veramo Files(Onboard Financial Data) - issue VC<break>- Chainlink External Adapter(Connect and Plug) to Chainlink DECO - TLS --</break>
-
+- <break>Plaid API - Veramo Files(Onboard Financial Data) - issue VC</break>
+  - Chainlink External Adapter(Connect and Plug) to Chainlink DECO - TLS --
 - Chainlink DECO --------connect to Chainlink Local
 - Chainlink-Local Node - Docker compose connect - could not link due to config issue
 - Hardhat Deployment - In progress with Local Node
