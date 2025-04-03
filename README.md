@@ -1,4 +1,4 @@
-# Local Blockchain Network Deployment on Local Machine
+
 <h1> EE4002D: Thesis Chainlink Blockchain Development with DID's Access 
 </h1>
 <h2>Digitalizaiton of Blockchain Identities and Suitability for Blockchain Implementaion</h2>
