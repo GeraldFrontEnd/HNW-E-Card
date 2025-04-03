@@ -1,11 +1,16 @@
 {
-  "name": "hardhat-project",
-  "devDependencies": {
-    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
-    "hardhat": "^2.22.19"
+  "name": "plaid-identity-chainlink-ea",
+  "version": "1.0.0",
+  "description": "Chainlink external adapter for Plaid /identity/get",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
   },
   "dependencies": {
-    "@chainlink/hardhat-chainlink": "^0.0.4",
-    "alchemy-sdk": "^3.5.6"
+    "@chainlink/external-adapter": "^0.2.6",
+    "axios": "^1.4.0",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.7",
+    "express": "^4.18.2"
   }
 }
