@@ -1,0 +1,9 @@
+[Log]
+Level = "info"
+
+[WebServer]
+AllowOrigins = '*'
+SecureCookies = false
+
+[WebServer.TLS]
+HTTPSPort = 0
