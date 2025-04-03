@@ -23,12 +23,15 @@ Hardhat - Deployment Full - Continous integration
   
 </p>
 
-<p> Work Flow Process Files
-- <break>Plaid API - Veramo Files(Onboard Financial Data) - issue VC</break>
-  --<break>  - Chainlink External Adapter(Connect and Plug) to Chainlink DECO - TLS </break>
-- Chainlink DECO --------connect to Chainlink Local
-- Chainlink-Local Node - Docker compose connect - could not link due to config issue
-- Hardhat Deployment - In progress with Local Node
-</p>
+1. **Work Flow Process Files**
+2. **Plaid API**
+3. **Veramo Files** (Onboard Financial Data)
+4. **Issue VC** (Verifiable Credential)
+5. **Chainlink External Adapter** – Connect and Plug
+6. **Chainlink DECO + TLS**
+7. **Connect to Chainlink Local Node**
+8. **Docker Compose Connect** – ⚠️ Could not link due to config issue
+9. **Hardhat Deployment** – _In progress with Local Node_
+
 
 
